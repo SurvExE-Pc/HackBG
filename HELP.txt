@@ -1,0 +1,11 @@
+Please Read the README.txt file if you have not.
+Read the LICENSE.txt file,
+Config is in the Config.txt file.
+
+How to use:
+Run HackBG.exe,
+Choose your backgroud,
+And click ok, And it will do the rest!!
+
+If it says this app is blocked then you cannot use this app
+as VBscript is blocked by your admin.

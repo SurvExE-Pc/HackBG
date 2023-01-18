@@ -1,0 +1,7 @@
+Keep backup of all used backgrounds:
+0
+Keep backup of TranscodedWallpaper:
+0
+
+1 Means yes
+0 Means no
